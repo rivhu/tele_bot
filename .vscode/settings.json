@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./project_main/app_api",
+        "./project_main/app_api/app_"
+    ]
+}
